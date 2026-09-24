@@ -199,7 +199,27 @@ prayers = [
     "İlahi, remote çalışırken sosyal bağlarımı da koparmadan denge kurmayı nasip et.",
     "Yarabbi, arka plandaki kedinin klavyeme basıp mesaj göndermesini engelle.",
     "Allah'ım, online sunum yaparken 'Sesin kesildi' cümlesini duymayayım.",
-    "Rabbim, remote hayatın konforunu, plaza hayatın stresine değişmeyecek bilgelik ver."
+    "Rabbim, remote hayatın konforunu, plaza hayatın stresine değişmeyecek bilgelik ver.",
+    "Allah'ım, cuma günü 16:59'da gelen 'Pazartesiye kadar yetişir mi?' mesajını gönderenin aklına salı günü düşür.",
+"Rabbim, 'Sende iki dakikalık iş' denilen görevlerin gerçekten iki dakika sürmesini nasip et.",
+"İlahi, toplantıdan toplantıya koşarken arada bir bardak su içecek vakit ihsan eyle.",
+"Yarabbi, 'Son bir değişiklik' sözünün ardından gerçekten son değişikliğin gelmesini sağla.",
+"Allah'ım, izin dönüşü inbox'ımı üç haneli sayılarla sınama.",
+"Rabbim, herkesin onayladığı tasarımın geliştirme bitince yeniden tartışılmasına engel ol.",
+"İlahi, 'Bende çalışıyor' diyen arkadaşımın ekranını da görmeyi nasip et.",
+"Yarabbi, bug'ı yeniden üretmek için gereken o esrarengiz adımı bana göster.",
+"Allah'ım, test ortamına girdiğimde şifresi değişmiş tek kişi ben olmayayım.",
+"Rabbim, otomasyon koşarken geçen testlerin sayısını artır, flaky olanların bahanesini azalt.",
+"İlahi, pipeline kırıldığında sebebini son commit'te bulmayı nasip et.",
+"Yarabbi, release gününde unutulmuş feature flag'leri vaktinde hatırlat.",
+"Allah'ım, 'Bu bug daha önce de vardı' cümlesini kanıtlayacak ekran görüntüsünü bana buldur.",
+"Rabbim, API dokümanındaki örnek response ile gerçek response'u birbirine yaklaştır.",
+"İlahi, sprint sonuna bir gün kala açılan 'küçük kapsam değişikliği'nden bizi koru.",
+"Yarabbi, demo sırasında dün çalışan butonun bugün de çalışmasını nasip et.",
+"Allah'ım, yöneticimin 'Bir bakar mısın?' mesajının yanında biraz bağlam da göndermesini sağla.",
+"Rabbim, öğle arasında başlayan toplantının gerçekten öğle arası bitmeden sona ermesini nasip et.",
+"İlahi, sessize aldığım mikrofonu konuşmaya başlamadan önce açmayı aklıma getir.",
+"Yarabbi, maaş zammı görüşmesinde gösterdiğim emeğin 'görünürlük' diye geçiştirilmesine izin verme."
 ]
 # --- ÖZEL BUTON TASARIMI ---
 st.markdown("""
